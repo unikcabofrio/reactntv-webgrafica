@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "reactntv-webgrafica",
-    "slug": "reactntv-webgrafica",
+    "name": "appGrafica",
+    "slug": "appGrafica",
     "newArchEnabled": true,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
     "splash": {
+      "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#272b40"
     },
@@ -37,7 +38,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "c6d6d439-95d5-4984-afd7-73bea4142c0f"
+        "projectId": "38b074fb-3f2b-4935-ae2d-41ec25fae705"
       }
     }
   }
